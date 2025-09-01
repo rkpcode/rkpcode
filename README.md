@@ -41,7 +41,7 @@ Predict customer retention using classification algorithms.
 
 ---
 
-### 🔹 [Titanic Survival Prediction](https://github.com/yourusername/titanic-survival-prediction)
+### 🔹 [Titanic Survival Prediction](https://github.com/rkpcode/titanic-survival-prediction)
 Kaggle Titanic dataset survival prediction with preprocessing pipelines.  
 **Tech:** Pandas, Seaborn, Logistic Regression  
 
