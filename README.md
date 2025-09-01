@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, SQL, JavaScript (Basics)  
+- **Languages:** Python, SQL  
 - **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow (Learning)  
 - **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub  
 - **Other Skills:** Data Cleaning, EDA, Machine Learning Models, Content Strategy  
@@ -62,7 +62,7 @@ Handle imbalanced data to detect fraudulent transactions.
 ## 📫 Connect with Me
 - 💼 [LinkedIn](  https://www.linkedin.com/in/rahul-kumar-pradhan-b62371321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - 📧 Email: contactrkp@gmail.com  
-- 🌐 Portfolio Website: (optional – GitHub Pages ya Notion se bana sakte ho)  
+- 🌐 Portfolio Website: 
 
 ---
 
