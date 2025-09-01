@@ -60,8 +60,8 @@ Handle imbalanced data to detect fraudulent transactions.
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
-- 📧 Email: yourname@email.com  
+- 💼 [LinkedIn](  https://www.linkedin.com/in/rahul-kumar-pradhan-b62371321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📧 Email: contactrkp@gmail.com  
 - 🌐 Portfolio Website: (optional – GitHub Pages ya Notion se bana sakte ho)  
 
 ---
