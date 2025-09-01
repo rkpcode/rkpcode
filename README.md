@@ -23,7 +23,7 @@
 
 ## 📂 Featured Projects
 
-### 🔹 [House Price Prediction (Regression)](https://github.com/yourusername/house-price-prediction)
+### 🔹 [House Price Prediction (Regression)](https://github.com/rkpcode/house-price-prediction)
 Predict house prices using regression models with feature engineering & hyperparameter tuning.  
 **Tech:** Pandas, Scikit-learn, Matplotlib  
 
