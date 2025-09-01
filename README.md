@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 - 🎓 Background: B.Tech in Civil Engineering | Master’s in Mass Media Communication  
 - 🔭 Currently working on **Data Science & Machine Learning projects**  
-- 🌱 Learning Path: Python → Statistics → ML/DL → AI/Computer Vision  
+- 🌱 Learning Path: Python → Math (Statistics, Probability, Linear Algebra & Calculus)→ ML/DL → AI/Computer Vision  
 - 🎯 Goal: To build impactful AI solutions & uplift society through technology  
 
 ---
