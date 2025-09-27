@@ -53,7 +53,7 @@ Handle imbalanced data to detect fraudulent transactions.
 
 ---
 ## 📂Real World Project 
-### 🔹 [ Detection](https://github.com/yourusername/)
+### 🔹 [ ](https://github.com/yourusername/gold-demand-forcasting)
 
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
