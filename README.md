@@ -52,6 +52,8 @@ Handle imbalanced data to detect fraudulent transactions.
 **Tech:** SMOTE, Random Forest, Scikit-learn  
 
 ---
+## 📂Real World Project 
+### 🔹 [ Detection](https://github.com/yourusername/)
 
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
