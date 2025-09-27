@@ -57,7 +57,7 @@ Handle imbalanced data to detect fraudulent transactions.
 ---
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode &layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode&layout=compact&theme=radical)  
 
 ---
 
