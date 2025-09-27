@@ -53,7 +53,7 @@ Handle imbalanced data to detect fraudulent transactions.
 
 ---
 ## 📂Real World Project 
-### 🔹 [Jewellery Shop Demand Forecasting System ](https://github.com/rkpcode/gold-demand-forecasting)
+### 🔹 [Jewellery Shop Demand Forecasting System ](https://github.com/rkpcode/gold_demand_forecasting)
 ---
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical)  
