@@ -21,7 +21,7 @@
 
 ---
 
-## 📂 Mini Projects
+## 📂 Machine Learning Projects
 
 ### 🔹 [ML END-TO-END Project (student performance)](https://github.com/rkpcode/ML_projects)
 
