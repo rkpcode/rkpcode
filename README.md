@@ -15,13 +15,19 @@
 
 ## 🛠️ Tech Stack
 - **Languages:** Python, SQL  
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow (Learning)  
-- **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub  
+- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
+- **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, DVC , Dagshub, ML flow 
 - **Other Skills:** Data Cleaning, EDA, Machine Learning Models, Content Strategy  
 
 ---
 
 ## 📂 Mini Projects
+
+### 🔹 [ML END-TO-END Project (Regression)]()
+
+**Tech:** Pandas, Scikit-learn, Matplotlib, 
+
+---
 
 ### 🔹 [House Price Prediction (Regression)](https://github.com/rkpcode/house-price-prediction)
 Predict house prices using regression models with feature engineering & hyperparameter tuning.  
