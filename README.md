@@ -23,7 +23,7 @@
 
 ## 📂 Mini Projects
 
-### 🔹 [ML END-TO-END Project (Regression)]()
+### 🔹 [ML END-TO-END Project (Regression)](https://github.com/rkpcode/ML_projects)
 
 **Tech:** Pandas, Scikit-learn, Matplotlib, 
 
