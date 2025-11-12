@@ -28,6 +28,11 @@
 **Tech:** Pandas, Scikit-learn, Matplotlib
 
 ---
+### 🔹 Retail Sales Intelligent System]()
+
+**Tech:** Pandas, Scikit-learn, Matplotlib
+
+---
 
 ### 🔹 [House Price Prediction (Regression)](https://github.com/rkpcode/house-price-prediction)
 Predict house prices using regression models with feature engineering & hyperparameter tuning.  
