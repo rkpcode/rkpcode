@@ -28,7 +28,7 @@
 **Tech:** Pandas, Scikit-learn, Matplotlib
 
 ---
-### 🔹 Retail Sales Intelligent System]()
+### 🔹 [Retail Sales Intelligent System](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
 
 **Tech:** Pandas, Scikit-learn, Matplotlib
 
