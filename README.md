@@ -25,12 +25,12 @@
 
 ### 🔹 [ML END-TO-END Project (student performance)](https://github.com/rkpcode/ML_projects)
 
-**Tech:**Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook**
+**Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
 
 ---
 ### 🔹 [Retail Sales Intelligent System](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
 
-**Tech:** Pandas, Scikit-learn,*Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook**
+**Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
 
 ---
 
