@@ -23,12 +23,14 @@
 
 ## 📂 Machine Learning Projects
 
-### 🔹 [ML END-TO-END Project (student performance)](https://github.com/rkpcode/ML_projects)
+### 🔹 [END-TO-END Project (student performance)](https://github.com/rkpcode/ML_projects)
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
 
 ---
-### 🔹 [Retail Sales Intelligent System](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
+### 🔹 [END-TO-END Retail Sales Intelligent System (classification )](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
+
+Predict the sale transaction using classification models with imbalance data handling,EDA and feature engineering & hyperparameter tuning.
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
 
