@@ -23,7 +23,7 @@
 
 ## 📂 END-TO-END ML Projects
 
-### 🔹 [(student performance)](https://github.com/rkpcode/ML_projects)
+### 🔹 [Student Performance](https://github.com/rkpcode/ML_projects)
 
 **Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
 
