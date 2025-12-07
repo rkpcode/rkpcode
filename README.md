@@ -28,7 +28,7 @@
 **Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
 
 ---
-### 🔹 [END-TO-END Retail Sales Intelligent System (classification )](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
+### 🔹 [Retail Sales Intelligent System (classification )](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
 
 Predict the sale transaction using classification models with imbalance data handling,EDA and feature engineering & hyperparameter tuning.
 
@@ -36,15 +36,13 @@ Predict the sale transaction using classification models with imbalance data han
 
 ---
 
-### 🔹 [House Price Prediction (Regression)](https://github.com/rkpcode/house-price-prediction)
-Predict house prices using regression models with feature engineering & hyperparameter tuning.  
-**Tech:** Pandas, Scikit-learn, Matplotlib  
+### 🔹 [Loan Paid_back Prediction (Classification )](https://github.com/rkpcode/loan_defult_prediction_system)
+
 
 ---
 
-### 🔹 [Spam Message Detection (Classification)](https://github.com/yourusername/spam-message-detector)
-Classify SMS as spam or ham using NLP & ML models.  
-**Tech:** Scikit-learn, TF-IDF, Logistic Regression  
+### 🔹 [Nifty 50 Forecasting (Time-Series)](https://github.com/rkpcode/NIFTY50_Forecasting_System)
+
 
 ---
 
