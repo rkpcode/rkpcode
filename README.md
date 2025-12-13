@@ -20,47 +20,17 @@
 - **Other Skills:** Data Cleaning, EDA, Machine Learning Models, Content Strategy  
 
 ---
+## 📂 Featured ML End-end Projects
 
-## 📂 END-TO-END ML Projects
-
-### 🔹 [Student Performance](https://github.com/rkpcode/ML_projects)
-
-**Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
-
----
-### 🔹 [Retail Sales Intelligent System (classification )](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
-
-Predict the sale transaction using classification models with imbalance data handling,EDA and feature engineering & hyperparameter tuning.
-
-**Tech:** Python, Scikit-learn, Pandas, NumPy,Matplotlib, Seaborn, Collab Notebook
-
----
-
-### 🔹 [Loan Paid_back Prediction (Classification )](https://github.com/rkpcode/loan_defult_prediction_system)
+| Project Name & Link | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Student Performance Predictor](https://github.com/rkpcode/ML_projects)** | Regression model to predict student grades based on behavioral and demographic data. | `Scikit-learn` `Pandas` `Seaborn` |
+| **[Retail Sales Intelligence](https://github.com/rkpcode/Retail_Sales_Intelligence_System)** | Classification system for sales transactions. Solved class imbalance issues using SMOTE & hyperparameter tuning. | `XGBoost` `SMOTE` `Scikit-learn` |
+| **[Loan Default Prediction](https://github.com/rkpcode/loan_defult_prediction_system)** | End-to-end credit risk model to identify potential loan defaulters with high precision. | `Python` `Streamlit` `Machine Learning` |
+| **[Nifty 50 Forecasting](https://github.com/rkpcode/NIFTY50_Forecasting_System)** | Time-series analysis project predicting stock market trends using historical data points. | `LSTM/ARIMA` `Time-Series` `Matplotlib` |
+| **[Sentiment Analysis System](https://github.com/rkpcode/nlp_sentiment_system)** | NLP pipeline classifying IMDB reviews with **90.54% accuracy**. Features negation handling (e.g., "not good") using optimized TF-IDF & Logistic Regression. | `Logistic Regression` `TF-IDF` `Streamlit` |
 
 
----
-
-### 🔹 [Nifty 50 Forecasting (Time-Series)](https://github.com/rkpcode/NIFTY50_Forecasting_System)
-
-
----
-
-### 🔹 [Customer Churn Prediction](https://github.com/yourusername/customer-churn-prediction)
-Predict customer retention using classification algorithms.  
-**Tech:** Pandas, Scikit-learn, Random Forest, XGBoost  
-
----
-
-### 🔹 [Titanic Survival Prediction](https://github.com/rkpcode/titanic-survival-prediction)
-Kaggle Titanic dataset survival prediction with preprocessing pipelines.  
-**Tech:** Pandas, Seaborn, Logistic Regression  
-
----
-
-### 🔹 [Credit Card Fraud Detection](https://github.com/yourusername/credit-card-fraud-detection)
-Handle imbalanced data to detect fraudulent transactions.  
-**Tech:** SMOTE, Random Forest, Scikit-learn  
 
 ---
 ## 📂Real World Project 
