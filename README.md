@@ -1,48 +1,55 @@
-# 🚀 Machine Learning Engineer | [cite_start]Rahul Kumar Pradhan 
+# 🚀 Rahul Kumar Pradhan
+### **Machine Learning Engineer | Production-Ready AI & MLOps**
 
-[cite_start]**Building Production-Ready AI systems that solve real-world business inefficiencies.** [cite: 8]
-[cite_start]Specialized in **Fintech Risk Modeling, Retail Intelligence, and Industrial Quality Control.** [cite: 13]
+Building end-to-end AI systems that move beyond notebooks and solve actual business inefficiencies. I bridge the gap between complex algorithms and clear Business ROI.
 
-[**LinkedIn**](https://www.linkedin.com/in/rkpcode) | [**Live Portfolio**](https://github.com/rkpcode) | [cite_start]📧 contactrkp21@gmail.com [cite: 3, 5]
-
----
-
-## [cite_start]👨‍💻 Professional Focus [cite: 7]
-* **Impact-Driven AI:** I don't just build models; [cite_start]I build end-to-end pipelines that bridge the gap between complex algorithms and business ROI. [cite: 8]
-* [cite_start]**MLOps Standards:** Every project is built with production standards, using **DVC for data versioning** and **MLflow for experiment tracking**. [cite: 10, 14]
-* [cite_start]**Explainability:** Utilizing **SHAP** to ensure AI transparency and regulatory compliance in high-stakes industries. [cite: 10, 13]
+[**LinkedIn**](https://www.linkedin.com/in/rkpcode) | [**GitHub Portfolio**](https://github.com/rkpcode) | 📧 [contactrkp21@gmail.com](mailto:contactrkp21@gmail.com)
 
 ---
 
-## [cite_start]🛠️ Tech Stack 
-* [cite_start]**Languages & DBs:** Python (Advanced), SQL. [cite: 12]
-* [cite_start]**ML/DL Frameworks:** XGBoost, CatBoost, Scikit-learn, TensorFlow, PyTorch. [cite: 12]
-* [cite_start]**MLOps & Deployment:** DVC, MLflow, Docker, Git, Streamlit, Flask, FastAPI. 
-* [cite_start]**Data Engineering:** Automated Feature Pipelines, Data Validation, SQL Optimization. [cite: 15]
+## 👨‍💻 Why Me? (The Logic)
+* **Production First:** Main sirf model train nahi karta; DVC, MLflow aur Docker ka use karke reproducible pipelines build karta hoon.
+* **Explainable AI (XAI):** AI "black box" nahi hona chahiye. Main **SHAP** use karta hoon regulatory compliance aur model transparency ke liye.
+* **Multidisciplinary Edge:** Civil Engineering se **Systems Thinking** aur Mass Media se **Customer Psychology** ka perspective lekar aata hoon—jo churn aur risk models mein critical hota hai.
 
 ---
 
-## [cite_start]📂 Featured Production Projects [cite: 16]
-
-| Project Name | Business Impact | Tech Stack |
-| :--- | :--- | :--- |
-| **🛡️ [Loan Default Guard](https://github.com/rkpcode/loan_defult_prediction_system)** | Captured **95%+ Recall** to minimize credit risk. [cite_start]Features SHAP for auditability. [cite: 18, 20, 21] | `XGBoost` `SHAP` `Streamlit` |
-| **📊 [Retail Margin Intel](https://github.com/rkpcode/Retail_Sales_Intelligence_System)** | [cite_start]Identified margin erosion with **85.2% precision**, saving 15+ manual audit hours/week. [cite: 22, 24, 25] | `XGBoost` `SMOTE` `FastAPI` |
-| **🏗️ [Industrial Steel QA](https://github.com/rkpcode/ML_projects)** | [cite_start]Engineered **U-Net** segmentation for pixel-level defect detection in manufacturing. [cite: 26, 27, 28] | `PyTorch` `U-Net` `Docker` |
-| **📈 [Nifty 50 Quant Engine](https://github.com/rkpcode/NIFTY50_Forecasting_System)** | [cite_start]Rolling-window forecasting for market trends using **ARIMA/Prophet and LSTM**. [cite: 29, 30] | `LSTMs` `Prophet` `Pandas` |
-
----
-
-## [cite_start]🏗️ Background & Logic [cite: 32]
-* [cite_start]**Engineering Foundation:** Background in Civil Engineering provided a solid foundation in **Systems Thinking** and precision-based management. [cite: 34, 39]
-* [cite_start]**Behavioral Insights:** Master's in Mass Media Communication leveraged to understand **Customer Psychology**, now applied to Churn Prediction and NLP. [cite: 36, 38]
+## 🛠️ Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages & DBs** | Python (Advanced), SQL (Optimization), NoSQL |
+| **ML/DL Frameworks** | Scikit-learn, XGBoost, CatBoost, TensorFlow, PyTorch |
+| **MLOps & DevOps** | DVC, MLflow, Docker, Git, CI/CD Pipelines |
+| **Deployment** | FastAPI, Flask, Streamlit, AWS/Azure basics |
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Featured Production Projects
+
+### 🛡️ [Loan Default Guard](https://github.com/rkpcode/loan_defult_prediction_system)
+* **Problem:** High credit risk and non-transparent rejection reasons.
+* **Solution:** Built a classification system with **95% Recall**.
+* **Tech:** `XGBoost`, `SHAP` (for auditability), `Streamlit`.
+* **Impact:** Minimized financial risk while providing clear "reasons for rejection" for regulators.
+
+### 📊 [Retail Margin Intel](https://github.com/rkpcode/Retail_Sales_Intelligence_System)
+* **Problem:** Manual audits taking 15+ hours/week to find margin leaks.
+* **Solution:** Anomaly detection engine with **85.2% precision**.
+* **Tech:** `XGBoost`, `SMOTE` (for class imbalance), `FastAPI`.
+* **Impact:** Automated audit work, saving significant operational costs.
+
+### 🏗️ [Industrial Steel QA](https://github.com/rkpcode/ML_projects)
+* **Problem:** Manual surface defect inspection is slow and error-prone.
+* **Solution:** **U-Net** based image segmentation for pixel-level defect detection.
+* **Tech:** `PyTorch`, `Computer Vision`, `Docker`.
+
+---
+
+## 📊 My GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode&layout=compact&theme=radical)
 
 ---
 
-⭐️ From [Rahul Pradhan](https://github.com/rkpcode)
+### 🤝 Let's Connect
+I'm always open to discussing **MLOps, Fintech AI, or Scalable Systems.**
