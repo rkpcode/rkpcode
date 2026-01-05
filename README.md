@@ -39,7 +39,7 @@ I build end-to-end AI systems that bridge the gap between experimental notebooks
 * **Tech:** `XGBoost`, `SMOTE` (imbalance handling), `FastAPI`.
 * **Impact:** Automated the audit process, significantly reducing manual overhead and operational costs.
 
-### 🏗️ [Industrial Steel QA](https://github.com/rkpcode/ML_projects)
+### 🏗️ [Industrial Steel QA](https://github.com/rkpcode/steel_defect_detection)
 * **Problem:** Slow and inconsistent manual inspection of steel surfaces in manufacturing.
 * **Solution:** Engineered a **U-Net** segmentation model for pixel-level defect detection.
 * **Tech:** `PyTorch`, `Computer Vision`, `Docker`.
