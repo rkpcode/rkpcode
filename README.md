@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Rahul  
 
-🚀 **Aspiring Data Scientist | AI Enthusiast | Problem Solver**  
+🚀 ** Data Scientist | AI Enthusiast | Problem Solver**  
 💡 Passionate about building real-world projects in **Machine Learning, Deep Learning, and AI**  
 
 ---
