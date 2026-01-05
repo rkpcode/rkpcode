@@ -1,52 +1,48 @@
-# Hi there 👋, I'm Rahul  
+# 🚀 Machine Learning Engineer | [cite_start]Rahul Kumar Pradhan 
 
-🚀 ** Data Scientist | AI Enthusiast | Problem Solver**  
-💡 Passionate about building real-world projects in **Machine Learning, Deep Learning, and AI**  
+[cite_start]**Building Production-Ready AI systems that solve real-world business inefficiencies.** [cite: 8]
+[cite_start]Specialized in **Fintech Risk Modeling, Retail Intelligence, and Industrial Quality Control.** [cite: 13]
 
----
-
-## 👨‍💻 About Me
-- 🎓 Background: B.Tech in Civil Engineering | Master’s in Mass Media Communication  
-- 🔭 Currently working on **Data Science & Machine Learning projects**  
-- 🌱 Learning Path: Python → Math (Statistics, Probability, Linear Algebra & Calculus)→ ML/DL→ MLOps → NLP → GenAI → CV → Embodied AI
-- 🎯 Goal: To build impactful AI solutions & uplift society through technology  
+[**LinkedIn**](https://www.linkedin.com/in/rkpcode) | [**Live Portfolio**](https://github.com/rkpcode) | [cite_start]📧 contactrkp21@gmail.com [cite: 3, 5]
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, SQL  
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow  
-- **Tools & Platforms:** Jupyter Notebook, Google Colab, Git, GitHub, DVC , Dagshub, ML flow 
-- **Other Skills:** Data Cleaning, EDA, Machine Learning Models, Content Strategy  
+## [cite_start]👨‍💻 Professional Focus [cite: 7]
+* **Impact-Driven AI:** I don't just build models; [cite_start]I build end-to-end pipelines that bridge the gap between complex algorithms and business ROI. [cite: 8]
+* [cite_start]**MLOps Standards:** Every project is built with production standards, using **DVC for data versioning** and **MLflow for experiment tracking**. [cite: 10, 14]
+* [cite_start]**Explainability:** Utilizing **SHAP** to ensure AI transparency and regulatory compliance in high-stakes industries. [cite: 10, 13]
 
 ---
-## 📂 Featured ML End-end Projects
 
-| Project Name & Link | Description | Tech Stack |
+## [cite_start]🛠️ Tech Stack 
+* [cite_start]**Languages & DBs:** Python (Advanced), SQL. [cite: 12]
+* [cite_start]**ML/DL Frameworks:** XGBoost, CatBoost, Scikit-learn, TensorFlow, PyTorch. [cite: 12]
+* [cite_start]**MLOps & Deployment:** DVC, MLflow, Docker, Git, Streamlit, Flask, FastAPI. 
+* [cite_start]**Data Engineering:** Automated Feature Pipelines, Data Validation, SQL Optimization. [cite: 15]
+
+---
+
+## [cite_start]📂 Featured Production Projects [cite: 16]
+
+| Project Name | Business Impact | Tech Stack |
 | :--- | :--- | :--- |
-| **[Student Performance Predictor](https://github.com/rkpcode/ML_projects)** | Regression model to predict student grades based on behavioral and demographic data. | `Scikit-learn` `Pandas` `Seaborn` |
-| **[Retail Sales Intelligence](https://github.com/rkpcode/Retail_Sales_Intelligence_System)** | Classification system for sales transactions. Solved class imbalance issues using SMOTE & hyperparameter tuning. | `XGBoost` `SMOTE` `Scikit-learn` |
-| **[Loan Default Prediction](https://github.com/rkpcode/loan_defult_prediction_system)** | End-to-end credit risk model to identify potential loan defaulters with high precision. | `Python` `Streamlit` `Machine Learning` |
-| **[Nifty 50 Forecasting](https://github.com/rkpcode/NIFTY50_Forecasting_System)** | Time-series analysis project predicting stock market trends using historical data points. | `LSTM/ARIMA` `Time-Series` `Matplotlib` |
-| **[Sentiment Analysis System](https://github.com/rkpcode/nlp_sentiment_system)** | NLP pipeline classifying IMDB reviews with **90.54% accuracy**. Features negation handling (e.g., "not good") using optimized TF-IDF & Logistic Regression. | `Logistic Regression` `TF-IDF` `Streamlit` |
-
-
+| **🛡️ [Loan Default Guard](https://github.com/rkpcode/loan_defult_prediction_system)** | Captured **95%+ Recall** to minimize credit risk. [cite_start]Features SHAP for auditability. [cite: 18, 20, 21] | `XGBoost` `SHAP` `Streamlit` |
+| **📊 [Retail Margin Intel](https://github.com/rkpcode/Retail_Sales_Intelligence_System)** | [cite_start]Identified margin erosion with **85.2% precision**, saving 15+ manual audit hours/week. [cite: 22, 24, 25] | `XGBoost` `SMOTE` `FastAPI` |
+| **🏗️ [Industrial Steel QA](https://github.com/rkpcode/ML_projects)** | [cite_start]Engineered **U-Net** segmentation for pixel-level defect detection in manufacturing. [cite: 26, 27, 28] | `PyTorch` `U-Net` `Docker` |
+| **📈 [Nifty 50 Quant Engine](https://github.com/rkpcode/NIFTY50_Forecasting_System)** | [cite_start]Rolling-window forecasting for market trends using **ARIMA/Prophet and LSTM**. [cite: 29, 30] | `LSTMs` `Prophet` `Pandas` |
 
 ---
-## 📂Real World Project 
-### 🔹 [Jewellery Shop Demand Forecasting System ](https://github.com/rkpcode/gold_demand_forecasting)
+
+## [cite_start]🏗️ Background & Logic [cite: 32]
+* [cite_start]**Engineering Foundation:** Background in Civil Engineering provided a solid foundation in **Systems Thinking** and precision-based management. [cite: 34, 39]
+* [cite_start]**Behavioral Insights:** Master's in Mass Media Communication leveraged to understand **Customer Psychology**, now applied to Churn Prediction and NLP. [cite: 36, 38]
+
 ---
+
 ## 📊 GitHub Stats
 ![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode&layout=compact&theme=radical)  
 
 ---
 
-## 📫 Connect with Me
-- 💼 [LinkedIn](  https://www.linkedin.com/in/rahul-kumar-pradhan-b62371321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📧 Email: contactrkp@gmail.com  
-- 🌐 Portfolio Website: 
-
----
-
-⭐️ From [Rahul](https://github.com/rkpcode)
+⭐️ From [Rahul Pradhan](https://github.com/rkpcode)
