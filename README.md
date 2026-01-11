@@ -47,8 +47,14 @@ I build end-to-end AI systems that bridge the gap between experimental notebooks
 
 ---
 
+
 ### 📊 My GitHub Stats
-![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical&hide_border=false)
+![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical)
 
 ### 🐍 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode&layout=compact&theme=radical)
+
+## 🛠 Tech Stack
+- **Languages:** Python, SQL, C++
+- **Data Science:** Pandas, NumPy, Scikit-Learn
+- **Deep Learning:** CNN, LSTM, Autoencoders
