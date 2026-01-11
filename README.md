@@ -47,5 +47,8 @@ I build end-to-end AI systems that bridge the gap between experimental notebooks
 
 ---
 
-## 📊 GitHub Ecosystem
-![Rahul's GitHub stats](
+### 📊 My GitHub Stats
+![Rahul's Stats](https://github-readme-stats.vercel.app/api?username=rkpcode&show_icons=true&theme=radical&hide_border=false)
+
+### 🐍 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkpcode&layout=compact&theme=radical)
